@@ -5,7 +5,7 @@ namespace Nicolassfr\Laravel\Pivot\Traits;
 use Nicolassfr\Laravel\Pivot\Relations\BelongsToManyCustom;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Builder;
-use Fico7489\Laravel\Pivot\Relations\MorphToManyCustom;
+use Nicolassfr\Laravel\Pivot\Relations\MorphToManyCustom;
 
 trait ExtendRelationsTrait
 {
