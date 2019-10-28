@@ -1,6 +1,6 @@
 <?php
 
-namespace Fico7489\Laravel\Pivot\Tests;
+namespace Nicolassfr\Laravel\Pivot\Tests;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
